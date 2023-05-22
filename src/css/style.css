@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.header-footer {
+  background-color: lightblue;
+  margin: auto;
+}
+
+.nav {
+  max-width: 1000px;
+  min-width: 500px;
+  margin: auto;
+  background-color: lightblue;
+}
+.nav .btn {
+  background-color: blue;
+  color: aliceblue;
+}
+.nav .nav-item {
+  display: flex;
+  flex-direction: row;
+}
+.nav .nav-item .logo {
+  width: 40px;
+}
+
+.container {
+  max-width: 1000px !important;
+  min-width: 500px !important;
+}
+.container .btn {
+  font-size: small;
+}
+.container .card::before {
+  content: "60 руб";
+  position: relative;
+  background-color: rgb(66, 147, 240);
+  width: 70px;
+  height: 100px;
+  top: 200px;
+  left: 20px;
+  border-radius: 20px;
+  padding: 7px;
+  height: 40px;
+}/*# sourceMappingURL=style.css.map */

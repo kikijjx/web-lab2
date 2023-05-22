@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="src/css/style.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+  <title>Document</title>
+</head>
+
+<body>
+  <div class="header-footer">
+    <ul class="nav justify-content-between">
+      <li class="nav-item">
+        <img class="logo" src="src/img/logo.png" alt="">
+        <a class="nav-link" href="#" tabindex="-1">Напиточки</a>
+      </li>
+      <li class="nav-item">
+        <a href="#" class="btn" onclick="ShowNotification()">Загрузить</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="container">
+    <div class="row my-3 mx-auto">
+      <div class="col-4">
+        <div class="card" style="width: 100%">
+          <img src="src/img/dobriy_cola.jpg" class="img-fluid mx-auto w-50" alt="Кола">
+          <div class="card-body">
+            <h5 class="card-title">Кола</h5>
+            <p class="card-text">Очевидно, раньше было во много раз хуже. <br>Теперь вот НАША, вкусная.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-description="0" onclick="ShowModal(this)">
+              Подробнее...
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card" style="width: 100%;">
+          <img src="src/img/dobriy_lemon_lime.jpg" class="img-fluid mx-auto w-50" alt="Лимон-лайм">
+          <div class="card-body">
+            <h5 class="card-title">Лимон-лайм</h5>
+            <p class="card-text">Очень неплохо, вкус более яркий, чем у грязного капиталистического аналога.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-description="1" onclick="ShowModal(this)">
+              Подробнее...
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card" style="width: 100%;">
+          <img src="src/img/dobriy_apelsin.jpg" class="img-fluid mx-auto w-50" alt="Апельсин">
+          <div class="card-body">
+            <h5 class="card-title">Апельсин</h5>
+            <p class="card-text">Сделан из свежих сочинских апельсинов. <br>Полезнее только каша.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-description="2" onclick="ShowModal(this)">
+              Подробнее...
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row my-3 mx-auto">
+      <div class="col-4">
+        <div class="card" style="width: 100%;">
+          <img src="src/img/dobriy_mango.jpg" class="img-fluid mx-auto w-50" alt="Манго-маракуйя">
+          <div class="card-body">
+            <h5 class="card-title">Манго-маракуйя</h5>
+            <p class="card-text">Кайф. Сочное вьетнамское манго и бразильская маракуйя делают дела.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-description="3" onclick="ShowModal(this)">
+              Подробнее...
+            </button>
+          </div>
+        </div>
+      </div>
+      <div class="col-4">
+        <div class="card" style="width: 100%;">
+          <img src="src/img/dobriy_sibir.jpg" class="img-fluid mx-auto w-50" alt="Сибирские травы">
+          <div class="card-body">
+            <h5 class="card-title">Сибирские травы</h5>
+            <p class="card-text">Самая настоящая база. Родной вкус, греющий душу и придающий сил.</p>
+            <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-description="4" onclick="ShowModal(this)">
+              Подробнее...
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+
+  <div class="header-footer">
+    <ul class="nav justify-content-between">
+      <li class="nav-item">
+        <a class="nav-link">Серов Никита, 2023</a>
+      </li>
+      <li class="nav-item">
+        <a href="https://sun1.userapi.com/sun1-19/s/v1/ig2/cYnWpyJKnJg1r67FVsuxPEMV51-pmAXlONcPRWKPM3frRBSVxbxo57lMJmK3CDG89pDa2AAj_CQDbYgvH2QQPihF.jpg?size=1200x1184&quality=96&type=album"
+          target="_blank"><img class="logo mx-2" src="src/img/vk_logo.png" alt=""></a>
+        <a href="https://sun1.userapi.com/sun1-22/s/v1/ig2/haOOTy1H79r_YzvOcna5VNrVZxOqtINYFpkHExJn-rI8Av00V2jxqWeW2gR4SFswsb1kWyB3zICTAnRRAIuT9AFf.jpg?size=807x531&quality=95&type=album"
+          target="_blank"><img class="logo" src="src/img/tg_logo.png" alt=""></a>
+      </li>
+    </ul>
+  </div>
+
+
+  
+  <div class="modal fade" id="modaldescription">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h5 class="modal-title">Описание</h5>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body"></div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-primary" data-bs-toggle="popover" data-bs-placement="bottom" title="Подсказка" data-bs-content="Модальные окна можно переключать стрелками вправо и влево">Подсказка</button>
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Закрыть</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <div class="position-fixed bottom-0 end-0 p-3" style="z-index: 11">
+    <div class="toast" role="alert" id="notification">
+      <div class="toast-body text-left">
+        В данный момент этот функционал недоступен
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+    crossorigin="anonymous"></script>
+    <script src="src/js/script.js"></script>
+
+</body>
+
+</html>
