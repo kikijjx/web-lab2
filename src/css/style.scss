@@ -1,3 +1,4 @@
+@import "../../node_modules/bootstrap/scss/bootstrap.scss";
 .header-footer {
   background-color: lightblue;
   margin:auto;
@@ -25,7 +26,7 @@
   .btn {
     font-size: small;
   }
-  .card::before {
+  #nap::before {
     content: "60 руб";
     position: relative;
     background-color: rgb(66, 147, 240);
