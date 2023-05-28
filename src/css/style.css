@@ -9810,14 +9810,14 @@ textarea.form-control-lg {
   width: 40px;
 }
 
-.container {
+#napit {
   max-width: 1000px !important;
   min-width: 500px !important;
 }
-.container .btn {
+#napit .btn {
   font-size: small;
 }
-.container #nap::before {
+#napit #nap::before {
   content: "60 руб";
   position: relative;
   background-color: rgb(66, 147, 240);
@@ -9828,4 +9828,10 @@ textarea.form-control-lg {
   border-radius: 20px;
   padding: 7px;
   height: 40px;
+}
+
+#cardss {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  width: 1000px;
 }/*# sourceMappingURL=style.css.map */

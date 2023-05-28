@@ -22,7 +22,7 @@
   background-color: lightblue;
 }
 
-.container {
+#napit {
   .btn {
     font-size: small;
   }
@@ -43,3 +43,10 @@
   
 }
 
+
+
+#cardss {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   width: 1000px;
+}

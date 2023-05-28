@@ -1,12 +1,11 @@
 <h3>
     {{page_name}}
 </h3>
-<div class="container">
+<div class="container" id="cardss">
     {{#each blocks}}
         <div class="card" id="card{{@index}}" onclick="showNewObjModal(this)">
             <h5>{{title}}</h5>
             <h6>{{content}}</h6>
-            {{!-- <p>{{#if is_active}} ACTIVE {{else}} NOT ACTIVE {{/if}}</p> --}}
         </div>
     {{/each}}
 </div>

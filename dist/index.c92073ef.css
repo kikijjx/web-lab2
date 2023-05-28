@@ -11095,16 +11095,16 @@ textarea.form-control-lg {
   width: 40px;
 }
 
-.container {
+#napit {
   max-width: 1000px !important;
   min-width: 500px !important;
 }
 
-.container .btn {
+#napit .btn {
   font-size: small;
 }
 
-.container #nap:before {
+#napit #nap:before {
   content: "60 руб";
   width: 70px;
   height: 100px;
@@ -11115,6 +11115,12 @@ textarea.form-control-lg {
   position: relative;
   top: 200px;
   left: 20px;
+}
+
+#cardss {
+  width: 1000px;
+  grid-template-columns: repeat(3, 1fr);
+  display: grid;
 }
 
 /*# sourceMappingURL=index.c92073ef.css.map */

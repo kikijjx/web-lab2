@@ -1,4 +1,4 @@
-6663
+6673
 62D:\labs\web\lr2\node_modules\@swc\helpers\src\_ts_metadata.mjs133295145581500912 0
 48D:\labs\web\lr2\node_modules\is-json\.travis.yml133295145574312627 0
 59D:\labs\web\lr2\node_modules\lmdb\dependencies\lmdb-data-v1133295145572802135 1
@@ -19,7 +19,7 @@
 67D:\labs\web\lr2\node_modules\@swc\helpers\src\_set_prototype_of.mjs133295145581345561 0
 35D:\labs\web\lr2\node_modules\@lezer133295145563385514 1
 51D:\labs\web\lr2\node_modules\nth-check\lib\parse.js133295145574656331 0
-26D:\labs\web\lr2\.gitignore133295142853751978 0
+26D:\labs\web\lr2\.gitignore133295615387642098 0
 79D:\labs\web\lr2\node_modules\@popperjs\core\lib\modifiers\popperOffsets.js.flow133295151467866971 0
 49D:\labs\web\lr2\node_modules\json5\lib\parse.d.ts133295145576532138 0
 82D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\.bin\svgo.ps1133295145586372466 0
@@ -66,12 +66,12 @@
 51D:\labs\web\lr2\node_modules\escalade\sync\index.js133295145573548914 0
 60D:\labs\web\lr2\node_modules\caniuse-lite\data\regions\AX.js133295145578527141 0
 58D:\labs\web\lr2\node_modules\bootstrap\scss\bootstrap.scss133295151479827094 0
-48D:\labs\web\lr2\dist\dobriy_apelsin.dc238d27.jpg133295602664715422 0
-20D:\labs\web\lr2\dist133295604763935953 1
+48D:\labs\web\lr2\dist\dobriy_apelsin.dc238d27.jpg133295675012754881 0
+20D:\labs\web\lr2\dist133295677149714528 1
 80D:\labs\web\lr2\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js133295142688294236 0
 77D:\labs\web\lr2\node_modules\css-select\node_modules\entities\lib\decode.d.ts133295145579023606 0
 68D:\labs\web\lr2\node_modules\@parcel\core\test\TargetRequest.test.js133295145581279677 0
-28D:\labs\web\lr2\template.hbs133295602659714163 0
+28D:\labs\web\lr2\template.hbs133295675002640031 0
 39D:\labs\web\lr2\src\img\dobriy_cola.jpg133295114692400031 0
 75D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-mediaqueries.js133295145581772641 0
 72D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-animation.js133295145580813877 0
@@ -79,7 +79,7 @@
 23D:\labs\web\lr2\src\css133295114692386000 1
 60D:\labs\web\lr2\node_modules\source-map-js\lib\base64-vlq.js133295145573453585 0
 60D:\labs\web\lr2\node_modules\bootstrap\scss\_list-group.scss133295151479551084 0
-26D:\labs\web\lr2\index.html133295579363899937 0
+26D:\labs\web\lr2\index.html133295676908691860 0
 74D:\labs\web\lr2\node_modules\csso\lib\restructure\2-initialMergeRuleset.js133295145578419241 0
 58D:\labs\web\lr2\node_modules\update-browserslist-db\cli.js133295145573392837 0
 49D:\labs\web\lr2\node_modules\postcss-value-parser133295145574850456 1
@@ -100,7 +100,7 @@
 47D:\labs\web\lr2\node_modules\js-yaml\lib\schema133295145576554658 1
 66D:\labs\web\lr2\node_modules\caniuse-lite\data\features\imports.js133295145583206373 0
 55D:\labs\web\lr2\node_modules\@lezer\lr\dist\decode.d.ts133295145575004786 0
-32D:\labs\web\lr2\src\js\script.js133295604522528552 0
+32D:\labs\web\lr2\src\js\script.js133295614202963949 0
 59D:\labs\web\lr2\node_modules\css-tree\cjs\syntax\create.cjs133295145577231586 0
 54D:\labs\web\lr2\node_modules\posthtml-render\readme.md133295145574252366 0
 61D:\labs\web\lr2\node_modules\css-tree\lib\syntax\node\Hash.js133295145581762553 0
@@ -116,7 +116,7 @@
 52D:\labs\web\lr2\node_modules\terser\bin\package.json133295145579110148 0
 81D:\labs\web\lr2\node_modules\css-select\lib\esm\pseudo-selectors\aliases.d.ts.map133295145577261770 0
 97D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\css-tree\lib\syntax\function133295145580991238 1
-30D:\labs\web\lr2\src\js\root.js133295486425189125 0
+30D:\labs\web\lr2\src\js\root.js133295673997764566 0
 60D:\labs\web\lr2\node_modules\source-map\lib\binary-search.js133295142688104231 0
 57D:\labs\web\lr2\node_modules\@parcel\optimizer-terser\src133295145573515062 1
 60D:\labs\web\lr2\node_modules\weak-lru-cache\rollup.config.js133295145574195160 0
@@ -165,7 +165,7 @@
 46D:\labs\web\lr2\node_modules\csso\dist\csso.js133295145579459184 0
 51D:\labs\web\lr2\node_modules\css-tree\lib\convertor133295145581842032 1
 61D:\labs\web\lr2\node_modules\css-tree\cjs\lexer\structure.cjs133295145580568618 0
-33D:\labs\web\lr2\src\css\style.css133295167528364932 0
+33D:\labs\web\lr2\src\css\style.css133295676999289832 0
 69D:\labs\web\lr2\node_modules\caniuse-lite\data\features\word-break.js133295145585200682 0
 59D:\labs\web\lr2\node_modules\svgo\plugins\collapseGroups.js133295145576337118 0
 108D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\property\background.js133295145575995658 0
@@ -179,7 +179,7 @@
 50D:\labs\web\lr2\node_modules\posthtml\package.json133295145573811139 0
 60D:\labs\web\lr2\node_modules\@swc\helpers\src\_ts_values.mjs133295145581537567 0
 80D:\labs\web\lr2\node_modules\caniuse-lite\data\features\native-filesystem-api.js133295145583921392 0
-37D:\labs\web\lr2\src\css\style.css.map133295167528364932 0
+37D:\labs\web\lr2\src\css\style.css.map133295676999289832 0
 77D:\labs\web\lr2\node_modules\caniuse-lite\data\features\insertadjacenthtml.js133295145583329714 0
 73D:\labs\web\lr2\node_modules\@parcel\watcher\src\macos\FSEventsBackend.hh133295145577043901 0
 39D:\labs\web\lr2\node_modules\source-map133295142688193231 1
@@ -188,7 +188,7 @@
 90D:\labs\web\lr2\node_modules\@parcel\package-manager\test\fixtures\packages\peers\index.js133295145576734051 0
 42D:\labs\web\lr2\node_modules\escalade\dist133295145574368319 1
 58D:\labs\web\lr2\node_modules\@parcel\transformer-image\src133295145574690803 1
-34D:\labs\web\lr2\src\css\style.scss133295167517357724 0
+34D:\labs\web\lr2\src\css\style.scss133295676977861570 0
 67D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-zoom.js133295145582284753 0
 35D:\labs\web\lr2\node_modules\dotenv133295145574272359 1
 96D:\labs\web\lr2\node_modules\@parcel\core\test\fixtures\targets-default-distdir-one\package.json133295145581937334 0
@@ -2419,7 +2419,7 @@
 59D:\labs\web\lr2\node_modules\mdn-data\css\units.schema.json133295145577420321 0
 45D:\labs\web\lr2\node_modules\lmdb\binding.gyp133295145580248969 0
 79D:\labs\web\lr2\node_modules\caniuse-lite\data\features\js-regexp-lookbehind.js133295145583407189 0
-46D:\labs\web\lr2\dist\dobriy_mango.7ab0b78f.jpg133295602664914364 0
+46D:\labs\web\lr2\dist\dobriy_mango.7ab0b78f.jpg133295675012865644 0
 74D:\labs\web\lr2\node_modules\caniuse-lite\dist\unpacker\browserVersions.js133295145579768241 0
 90D:\labs\web\lr2\node_modules\@parcel\core\test\fixtures\common-targets-ignore\package.json133295145581623293 0
 86D:\labs\web\lr2\node_modules\csso\node_modules\css-tree\lib\syntax\node\Parentheses.js133295145582093758 0
@@ -2433,6 +2433,7 @@
 41D:\labs\web\lr2\node_modules\lmdb\open.js133295145580929799 0
 46D:\labs\web\lr2\node_modules\lmdb\package.json133295145581036404 0
 73D:\labs\web\lr2\node_modules\dom-serializer\node_modules\entities\LICENSE133295145572833759 0
+38D:\labs\web\lr2\dist\index.438f991c.js133295618958632182 0
 49D:\labs\web\lr2\node_modules\globals\globals.json133295145573594067 0
 62D:\labs\web\lr2\node_modules\@parcel\graph\lib\ContentGraph.js133295145574905732 0
 86D:\labs\web\lr2\node_modules\@popperjs\core\lib\dom-utils\getHTMLElementScroll.js.flow133295151467472347 0
@@ -2521,7 +2522,7 @@
 58D:\labs\web\lr2\node_modules\htmlnano\docs\babel.config.js133295145573654143 0
 54D:\labs\web\lr2\node_modules\lmdb\dependencies\lz4\lib133295145581154106 1
 63D:\labs\web\lr2\node_modules\caniuse-lite\data\features\spdy.js133295145584550700 0
-41D:\labs\web\lr2\dist\vk_logo.b2d7901d.png133295602664715422 0
+41D:\labs\web\lr2\dist\vk_logo.b2d7901d.png133295675012754881 0
 48D:\labs\web\lr2\node_modules\dotenv\CHANGELOG.md133295145573081651 0
 48D:\labs\web\lr2\node_modules\htmlparser2\LICENSE133295145572770581 0
 61D:\labs\web\lr2\node_modules\cosmiconfig\dist\getDirectory.js133295145574390842 0
@@ -2746,7 +2747,7 @@
 50D:\labs\web\lr2\node_modules\@parcel\packager-html133295145573921718 1
 59D:\labs\web\lr2\node_modules\bootstrap\scss\_accordion.scss133295151479348733 0
 62D:\labs\web\lr2\node_modules\electron-to-chromium\package.json133295145575726655 0
-51D:\labs\web\lr2\dist\dobriy_lemon_lime.2d0769d5.jpg133295602665153249 0
+51D:\labs\web\lr2\dist\dobriy_lemon_lime.2d0769d5.jpg133295675012754881 0
 65D:\labs\web\lr2\node_modules\caniuse-lite\data\features\tls1-1.js133295145584810123 0
 59D:\labs\web\lr2\node_modules\js-yaml\lib\schema\failsafe.js133295145575243989 0
 59D:\labs\web\lr2\node_modules\chrome-trace-event\LICENSE.txt133295145574680686 0
@@ -3089,6 +3090,7 @@
 94D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\csso\lib\replace\color.js133295145576284619 0
 70D:\labs\web\lr2\node_modules\handlebars\dist\amd\handlebars.runtime.js133295142688604568 0
 89D:\labs\web\lr2\node_modules\csso\node_modules\css-tree\lib\tokenizer\OffsetToLocation.js133295145582072670 0
+42D:\labs\web\lr2\dist\index.7a53dd14.js.map133295677149714528 0
 94D:\labs\web\lr2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\foo\index.js133295145577868318 0
 79D:\labs\web\lr2\node_modules\caniuse-lite\data\features\intersectionobserver.js133295145583342367 0
 78D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\data133295145581062187 1
@@ -3544,6 +3546,7 @@
 81D:\labs\web\lr2\node_modules\csso\node_modules\css-tree\cjs\lexer\match-graph.cjs133295145579505129 0
 104D:\labs\web\lr2\node_modules\@parcel\source-map\parcel_sourcemap_wasm\dist-node\parcel_sourcemap_wasm.js133295145575540363 0
 63D:\labs\web\lr2\node_modules\caniuse-lite\data\features\avif.js133295145578406376 0
+38D:\labs\web\lr2\dist\index.50eb735e.js133295618958637222 0
 75D:\labs\web\lr2\node_modules\csso\node_modules\css-tree\cjs\lexer\match.cjs133295145579555032 0
 60D:\labs\web\lr2\node_modules\caniuse-lite\data\regions\SR.js133295145584572672 0
 91D:\labs\web\lr2\node_modules\csso\node_modules\css-tree\cjs\definition-syntax\tokenizer.cjs133295145580528993 0
@@ -4627,7 +4630,7 @@
 74D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-transitions.js133295145582218294 0
 67D:\labs\web\lr2\node_modules\caniuse-lite\data\features\testfeat.js133295145584740673 0
 48D:\labs\web\lr2\node_modules\acorn\dist\acorn.js133295145574505763 0
-38D:\labs\web\lr2\dist\logo.726d37a8.png133295602664715422 0
+38D:\labs\web\lr2\dist\logo.726d37a8.png133295675012754881 0
 74D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-unset-value.js133295145582232666 0
 72D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-when-else.js133295145582257679 0
 76D:\labs\web\lr2\node_modules\caniuse-lite\data\features\css-width-stretch.js133295145582257679 0
@@ -4869,7 +4872,7 @@
 98D:\labs\web\lr2\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback133295145580298156 1
 51D:\labs\web\lr2\node_modules\browserslist\README.md133295145575132292 0
 48D:\labs\web\lr2\node_modules\braces\CHANGELOG.md133295145573043696 0
-38D:\labs\web\lr2\dist\index.5ebe8c3c.js133295602665133100 0
+38D:\labs\web\lr2\dist\index.5ebe8c3c.js133295675012865644 0
 96D:\labs\web\lr2\node_modules\@parcel\core\test\fixtures\config-extends-not-found\.parcelrc-json5133295145575746649 0
 44D:\labs\web\lr2\node_modules\braces\index.js133295145573381541 0
 93D:\labs\web\lr2\node_modules\@parcel\workers\test\integration\workerfarm\master-process-id.js133295145576856216 0
@@ -5264,6 +5267,7 @@
 73D:\labs\web\lr2\node_modules\@popperjs\core\lib\dom-utils\instanceOf.d.ts133295151467645513 0
 76D:\labs\web\lr2\node_modules\@parcel\core\src\requests\BundleGraphRequest.js133295145578393744 0
 71D:\labs\web\lr2\node_modules\@popperjs\core\lib\dom-utils\instanceOf.js133295151467645513 0
+38D:\labs\web\lr2\dist\index.83005342.js133295672338836257 0
 82D:\labs\web\lr2\node_modules\@popperjs\core\lib\dom-utils\isLayoutViewport.js.flow133295151467657333 0
 106D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeEmptyContainers.js133295145578621959 0
 77D:\labs\web\lr2\node_modules\@popperjs\core\lib\dom-utils\isScrollParent.d.ts133295151467657333 0
@@ -5295,7 +5299,7 @@
 76D:\labs\web\lr2\node_modules\@popperjs\core\dist\esm\utils\detectOverflow.js133295151468464664 0
 87D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\lib\parser.js133295145577868318 0
 68D:\labs\web\lr2\node_modules\@popperjs\core\dist\esm\utils\format.js133295151468475785 0
-42D:\labs\web\lr2\dist\index.09c24910.js.map133295604524456968 0
+42D:\labs\web\lr2\dist\index.09c24910.js.map133295675013122955 0
 72D:\labs\web\lr2\node_modules\@popperjs\core\dist\esm\utils\getAltAxis.js133295151468475785 0
 71D:\labs\web\lr2\node_modules\.bin\node-gyp-build-optional-packages-test133295145586392556 0
 82D:\labs\web\lr2\node_modules\@popperjs\core\dist\esm\utils\getOppositePlacement.js133295151468497117 0
@@ -5664,7 +5668,7 @@
 86D:\labs\web\lr2\node_modules\@parcel\runtime-js\lib\helpers\browser\import-polyfill.js133295145576771222 0
 93D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-select\lib\attributes.js133295145573781053 0
 80D:\labs\web\lr2\node_modules\@parcel\runtime-js\lib\helpers\browser\js-loader.js133295145576915106 0
-31D:\labs\web\lr2\dist\index.html133295604763888573 0
+31D:\labs\web\lr2\dist\index.html133295677149354302 0
 100D:\labs\web\lr2\node_modules\@babel\helper-validator-identifier\scripts\generate-identifier-regex.js133295145575273343 0
 80D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\src\HTMLNanoOptimizer.js133295145573614133 0
 85D:\labs\web\lr2\node_modules\@parcel\runtime-js\lib\helpers\browser\preload-loader.js133295145577772449 0
@@ -5951,6 +5955,7 @@
 99D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\String.js133295145580684503 0
 96D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\node\Url.js133295145580929799 0
 107D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\expression.js133295145578569093 0
+38D:\labs\web\lr2\dist\index.7a53dd14.js133295677149354302 0
 60D:\labs\web\lr2\node_modules\@parcel\core\test\utils.test.js133295145581432066 0
 100D:\labs\web\lr2\node_modules\@parcel\optimizer-svgo\node_modules\css-tree\lib\syntax\function\var.js133295145580991238 0
 39D:\labs\web\lr2\node_modules\.bin\json5133295145586382609 0
@@ -6029,7 +6034,7 @@
 97D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\minifyStyles.js133295145577692599 0
 106D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveElemsAttrsToGroup.js133295145577762449 0
 106D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\moveGroupAttrsToElems.js133295145577817639 0
-43D:\labs\web\lr2\dist\index.c92073ef.css.map133295602665006622 0
+43D:\labs\web\lr2\dist\index.c92073ef.css.map133295675833392855 0
 92D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\plugins.js133295145578023804 0
 101D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDimensions.js133295145578378789 0
 98D:\labs\web\lr2\node_modules\@parcel\optimizer-htmlnano\node_modules\svgo\plugins\removeDoctype.js133295145578449357 0
@@ -6458,6 +6463,7 @@
 54D:\labs\web\lr2\node_modules\@parcel\core\lib\index.js133295145579505129 0
 63D:\labs\web\lr2\node_modules\@parcel\core\lib\PackagerRunner.js133295145580144476 0
 61D:\labs\web\lr2\node_modules\@parcel\core\lib\ParcelConfig.js133295145580353182 0
+42D:\labs\web\lr2\dist\index.83005342.js.map133295672339028283 0
 52D:\labs\web\lr2\node_modules\@parcel\core\lib\public133295145581154106 1
 54D:\labs\web\lr2\node_modules\@parcel\core\lib\requests133295145581565015 1
 63D:\labs\web\lr2\node_modules\@parcel\core\lib\RequestTracker.js133295145580883051 0
@@ -6626,19 +6632,23 @@
 46D:\labs\web\lr2\node_modules\.bin\uglifyjs.ps1133295142689283589 0
 60D:\labs\web\lr2\node_modules\.bin\update-browserslist-db.ps1133295145586392556 0
 45D:\labs\web\lr2\dist\dobriy_cola.0f4839e9.jpg133295157718725808 0
-45D:\labs\web\lr2\dist\dobriy_cola.6a83643c.jpg133295602664914364 0
-46D:\labs\web\lr2\dist\dobriy_sibir.4f6a49e6.jpg133295602665153249 0
+45D:\labs\web\lr2\dist\dobriy_cola.6a83643c.jpg133295675012865644 0
+46D:\labs\web\lr2\dist\dobriy_sibir.4f6a49e6.jpg133295675012754881 0
 46D:\labs\web\lr2\dist\dobriy_sibir.e2d0de47.jpg133295157713977236 0
 38D:\labs\web\lr2\dist\index.0739d208.js133295196958072085 0
 38D:\labs\web\lr2\dist\index.087d9410.js133295600924209601 0
 42D:\labs\web\lr2\dist\index.087d9410.js.map133295600924234688 0
-38D:\labs\web\lr2\dist\index.09c24910.js133295604524426510 0
+38D:\labs\web\lr2\dist\index.09c24910.js133295675012754881 0
 39D:\labs\web\lr2\dist\index.1b041505.css133295166290545855 0
 43D:\labs\web\lr2\dist\index.1b041505.css.map133295166290575881 0
+42D:\labs\web\lr2\dist\index.438f991c.js.map133295618958690402 0
+39D:\labs\web\lr2\dist\index.24281b68.css133295677149354302 0
+43D:\labs\web\lr2\dist\index.24281b68.css.map133295677149714528 0
 38D:\labs\web\lr2\dist\index.25f9bcd1.js133295195608768666 0
 42D:\labs\web\lr2\dist\index.2e2e545f.js.map133295512734083121 0
 42D:\labs\web\lr2\dist\index.4867fecd.js.map133295565375156356 0
-42D:\labs\web\lr2\dist\index.5ebe8c3c.js.map133295602665174353 0
+42D:\labs\web\lr2\dist\index.50eb735e.js.map133295618958690402 0
+42D:\labs\web\lr2\dist\index.5ebe8c3c.js.map133295675013122955 0
 38D:\labs\web\lr2\dist\index.67281a07.js133295600042289332 0
 42D:\labs\web\lr2\dist\index.67281a07.js.map133295600042314326 0
 38D:\labs\web\lr2\dist\index.714eaccb.js133295604160023677 0
@@ -6650,7 +6660,7 @@
 42D:\labs\web\lr2\dist\index.aff19e47.js.map133295587717605564 0
 43D:\labs\web\lr2\dist\index.b71da508.css.map133295165495410225 0
 38D:\labs\web\lr2\dist\index.c24806db.js133295604160033672 0
-39D:\labs\web\lr2\dist\index.c92073ef.css133295602664986638 0
+39D:\labs\web\lr2\dist\index.c92073ef.css133295675833143125 0
 38D:\labs\web\lr2\dist\index.e82f28a0.js133295163435432045 0
 38D:\labs\web\lr2\dist\index.f18ad1eb.js133295542720249534 0
 42D:\labs\web\lr2\dist\index.f18ad1eb.js.map133295542720350101 0
@@ -6659,6 +6669,6 @@
 42D:\labs\web\lr2\dist\index.fea38eaf.js.map133295157731255384 0
 36D:\labs\web\lr2\dist\lr2.3464ddca.js133295161621066659 0
 40D:\labs\web\lr2\dist\lr2.3464ddca.js.map133295161621077701 0
-41D:\labs\web\lr2\dist\tg_logo.747b471a.png133295602664941319 0
+41D:\labs\web\lr2\dist\tg_logo.747b471a.png133295675012865644 0
 41D:\labs\web\lr2\dist\tg_logo.792022b5.png133295157718725808 0
 30D:\labs\web\lr2\data\data.json133295092231678176 0
